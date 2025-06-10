@@ -1,0 +1,88 @@
+{
+  "projectSummaries": [
+    {
+      "project": "Inovação e Novas tecnologias",
+      "total": 0,
+      "users": {}
+    },
+    {
+      "project": "Improvements",
+      "total": 414.43,
+      "users": {
+        "caiorn": 167.44,
+        "eduardosouto-wfs": 246.79,
+        "Yuri-Castanharo": 0.19
+      }
+    },
+    {
+      "project": "Controle Extras",
+      "total": 373.74,
+      "users": {
+        "caiorn": 373.58,
+        "Yuri-Castanharo": 0.01,
+        "Berreta-WFS": 0.15
+      }
+    },
+    {
+      "project": "Controle de Extras",
+      "total": 0,
+      "users": {}
+    }
+  ],
+  "issueTimeline": [
+    {
+      "id": "Inovação e Novas tecnologias_#98",
+      "name": "CONTROLE DE EXTRAS",
+      "start": "2025-06-02T14:53:11Z",
+      "end": "2025-06-02T14:53:11Z"
+    },
+    {
+      "id": "Inovação e Novas tecnologias_#99",
+      "name": "COI RPA",
+      "start": "2025-06-02T14:56:06Z",
+      "end": "2025-06-02T14:56:06Z"
+    },
+    {
+      "id": "Inovação e Novas tecnologias_#100",
+      "name": "COI SISTEMA",
+      "start": "2025-06-02T14:56:15Z",
+      "end": "2025-06-02T14:56:15Z"
+    },
+    {
+      "id": "Inovação e Novas tecnologias_#101",
+      "name": "CHAT",
+      "start": "2025-06-02T14:56:21Z",
+      "end": "2025-06-02T14:56:21Z"
+    },
+    {
+      "id": "Inovação e Novas tecnologias_#102",
+      "name": "CONTESTAÇÃO",
+      "start": "2025-06-02T14:56:30Z",
+      "end": "2025-06-02T14:56:30Z"
+    },
+    {
+      "id": "Inovação e Novas tecnologias_#103",
+      "name": "BHS",
+      "start": "2025-06-02T14:56:38Z",
+      "end": "2025-06-02T14:56:38Z"
+    },
+    {
+      "id": "Inovação e Novas tecnologias_#104",
+      "name": "SKYGUARDIAN",
+      "start": "2025-06-02T14:56:45Z",
+      "end": "2025-06-02T14:56:45Z"
+    },
+    {
+      "id": "Inovação e Novas tecnologias_#105",
+      "name": "VALIDAÇÃO COMPRAS (PREÇOS)",
+      "start": "2025-06-02T14:56:58Z",
+      "end": "2025-06-02T14:56:58Z"
+    },
+    {
+      "id": "Inovação e Novas tecnologias_#106",
+      "name": "VALIDAÇÃO FISCAL",
+      "start": "2025-06-02T14:57:10Z",
+      "end": "2025-06-02T14:57:10Z"
+    }
+  ]
+}
